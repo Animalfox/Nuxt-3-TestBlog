@@ -1,0 +1,25 @@
+.wrapper {
+    max-width: 1360px;
+    margin: 0 auto;
+}
+.maxwidth {
+    width: 100%;
+    max-width: 1360px;
+}
+.btn {
+    width: 164px;
+    height: 46px;
+    color: white;
+    background: #1B1B1B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+}
